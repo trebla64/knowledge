@@ -1,6 +1,8 @@
 # Summary
 
 * [Initial page](README.md)
+- [API](api/api.md)
+  - [Reddit](api/reddit.md)
 - [Cloud](cloud/cloud.md)
   - [AWS](cloud/aws/aws.md)
     - [DynamoDB](cloud/aws/dynamodb.md)
