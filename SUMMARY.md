@@ -10,3 +10,4 @@
     - [DynamoDB](cloud/aws/dynamodb.md)
 - [Graphics](graphics/graphics.md)
   - [OpenGL](graphics/opengl.md)
+- [Photoshop](photoshop/photoshop.md)
